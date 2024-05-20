@@ -1,1 +1,1 @@
-# Poverty-in-the-Midwest
+# Poverty in the Midwest
