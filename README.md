@@ -12,10 +12,16 @@ Our study focuses on 12 Midwest states: North Dakota, South Dakota, Nebraska, Ka
 - To analyze the statistical relationships between various demographic, economic, and social variables and the rate of homelessness.
 
 <ins><b>Exploratory Data Analysis</ins></b><br />
-During our exploratory data analysis, we observed that the covariability varied across different pairs of dimensions. Given our large sample size, we identified numerous outliers. However, after removing these outliers, we found that their absence did not significantly impact our correlation plot.
+Our exploratory data analysis observed that the covariability varied across different dimensions. Given our large sample size, we identified numerous outliers. However, after removing these outliers, we found that their absence did not significantly impact our correlation plot.
 
 ![pic1](EDApic1)
 ![pic2](EDApic2)
+
+<ins><b>Exploratory Factor Analysis</ins></b><br />
+In our analysis, we initially observed no complex dimensions in the data. Using orthogonal rotation, we identified that the relationship between home ownership and homelessness rates differed significantly. Specifically, owner-occupied housing showed a strong negative relationship with homelessness, while renter-occupied housing exhibited a strong positive relationship. However, when we applied oblique rotation, the relationships reversed: owner-occupied housing displayed a strong positive relationship with homelessness, and renter-occupied housing showed a strong negative relationship. For our study, we ultimately decided to use orthogonal rotation to maintain the clarity and interpretability of these relationships.
+
+![pic3](EFApic1)
+![pic4](EFApic2)
 
 <ins><b>Features</ins></b>
 - Exploratory Data
