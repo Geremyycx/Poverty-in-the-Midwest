@@ -23,6 +23,15 @@ In our analysis, we initially observed no complex dimensions in the data. Using 
 ![pic3](EFApic1)
 ![pic4](EFApic2)
 
+<ins><b>Path Diagram</ins></b><br />
+Our path diagram revealed key relationships between housing occupants and socioeconomic factors. Specifically, renter-occupied housing was linked to the broader category of housing occupants, while the percentage of residents with a bachelor's degree was associated with occupation status. Among these factors, owner-occupied housing had the most significant effect on poverty rates, underscoring the critical role of home ownership in mitigating poverty.
+
+![pic5](SEMpic1)
+
+<ins><b>Structural Equation Model</ins></b><br />
+
+![pic6](SEMpic2)
+
 <ins><b>Features</ins></b>
 - Exploratory Data
 - Factor Analysis 
