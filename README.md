@@ -29,8 +29,18 @@ Our path diagram revealed key relationships between housing occupants and socioe
 ![pic5](SEMpic1)
 
 <ins><b>Structural Equation Model</ins></b><br />
+- NFI & CFI: 0.509 < 0.95
+- IFI: 0.510 < 0.95
+- RMSEA: 0.567 > 0.08
+- MFI: 0.001 < 0.95
+- GFI: 1.000
+
+Although it seems that our predictor variables would be able to successfully predict poverty, our structural equations model summarized that using our variables and data, we were not able to predict homelessness. Our measures of statistical data did not satisfy critical thresholds within various indices of our structural equations model such as the NFI, IFI, CFI, etc. which resulted in an unsuccessful study. Surprisingly enough, our Goodness-of-Fit Index is 1.00, indicating a successful capture of the covariance of our structure, but found no correlation within our predictors themselves.
 
 ![pic6](SEMpic2)
+
+<ins><b>Conclusion</ins></b><br />
+In conclusion, we found that our model is unable to predict poverty using the variables we selected. Because of this, further research can be conducted by adding more predictors to the dataset or using twelve different predictors that may be able to predict poverty.
 
 <ins><b>Features</ins></b>
 - Exploratory Data
