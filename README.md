@@ -14,7 +14,7 @@ Our study focuses on 12 Midwest states: North Dakota, South Dakota, Nebraska, Ka
 <ins><b>Exploratory Data Analysis</ins></b><br />
 During our exploratory data analysis, we observed that the covariability varied across different pairs of dimensions. Given our large sample size, we identified numerous outliers. However, after removing these outliers, we found that their absence did not significantly impact our correlation plot.
 
-![pic1](EDApci1)
+![pic1](EDApic1)
 ![pic2](EDApic2)
 
 <ins><b>Features</ins></b>
