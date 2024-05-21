@@ -1,7 +1,7 @@
 # <b>Project Three: Poverty in the Midwest </b><br />
 
 <ins><b>Description</ins></b><br />
-This project aimed to identify the predictor variables that most significantly impact the rate of homelessness. We employed methods such as exploratory data analysis and factor analysis to develop a structural equation model, uncovering the relationships between our predictors and response variables.
+This project aimed to identify the predictor variables that most significantly impact the rate of homelessness. We employed methods such as exploratory data analysis and factor analysis to develop a structural equation model, uncovering the relationships between our predictors and response variables. Some of our variables are total Population, Bachelor's Degree or Higher, Veterans, Owner/Renter Occupied, In labor/Not in labor force, etc. 
 
 <ins><b>Background</ins></b><br />
 Our study focuses on 12 Midwest states: North Dakota, South Dakota, Nebraska, Kansas, Minnesota, Iowa, Missouri, Wisconsin, Illinois, Michigan, Indiana, and Ohio. Within these states, we included every county, totaling 1,056 counties. This comprehensive sample size provides a robust representation of the broader U.S. population.
